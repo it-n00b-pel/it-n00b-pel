@@ -15,9 +15,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://camo.githubusercontent.com/272811d860f3fab0dd8ff0690e2ca36afbf0c96ad44100b8d42dfdce8511679b/68747470733a2f2f6178696f732d687474702e636f6d2f6173736574732f6c6f676f2e737667" title="Axios" **alt="Axios" width="80" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WS" **alt="WS" width="80" height="40"/>
-  
-
+ 
 </div>
+
+</br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it-n00b-pel&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it-n00b-pel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **it-n00b-pel/it-n00b-pel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
