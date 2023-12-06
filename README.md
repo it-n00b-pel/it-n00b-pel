@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="images/header.png"/>
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -20,10 +20,16 @@
 </div>
 
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it-n00b-pel&theme=dark&background=000000)](https://git.io/streak-stats)
 
+###
+<div>
+  <img src="https://www.codewars.com/users/it-n00b-pel/badges/large"/>
+</div>
+
+<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it-n00b-pel&theme=github_dark)
 
